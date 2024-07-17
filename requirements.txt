@@ -1,0 +1,3 @@
+# No external dependencies are required for the current version of Logit.
+# This file ensures Python 3.6+ is used.
+python_version >= "3.6"
